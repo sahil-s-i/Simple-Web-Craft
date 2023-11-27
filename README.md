@@ -1,2 +1,3 @@
-# Simple-Website
-This Website is Created during the learning of Full Stack Web Development Course.
+# Simple Web Craft : HTML/CSS Training Project
+
+Hands-on project from my Full Stack Web Dev course showcasing HTML/CSS fundamentals.🚀
