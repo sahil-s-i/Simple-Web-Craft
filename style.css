@@ -72,11 +72,12 @@ nav ul li a {
 header {
     display: flex;
     min-height: 80vh;
-    background: url(https://media.gettyimages.com/id/1382384512/photo/bangalore-or-bengaluru.jpg?s=612x612&w=gi&k=20&c=YeV-07x82Yx50ekTh99C4jcajCegMunBusdvIsEbW9c=);
+    background: url(https://images.unsplash.com/photo-1682686581312-506a8b53190e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8);
     background-position: center;
     background-size: cover;
     justify-content: center;
     align-items: flex-start;
+    object-fit: contain;
 }
 
 .header-content {
