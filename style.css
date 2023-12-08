@@ -215,6 +215,13 @@ footer .contact a {
     color: #0077b6;
 }
 
+footer .socials a {
+    margin: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #fcbf49;
+}
+
 /* mobile first responsive design  */
 @media (min-width:675px) {
     nav {
