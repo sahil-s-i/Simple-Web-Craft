@@ -2,6 +2,8 @@
 
 Welcome to my HTML/CSS training project repository! This project is part of my journey through a Full Stack Web Development course where I've implemented HTML/CSS fundamentals to create a simple website.
 
+### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://sahil-s-i.github.io/Simple-Web-Craft/)
+
 ## Overview
 
 This project serves as a hands-on demonstration of my understanding of front-end development using HTML and CSS. It showcases my ability to structure web pages and apply styles to create an engaging user interface.
